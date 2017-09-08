@@ -3,23 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="56a598a3-82d5-4470-b44f-f33a5ce2c031" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="E:/new2_project/Yimuyun-zhuisu-houtai/xinda-zhuisu-admin.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/bfd/ftp/ApplicationRun.class" afterPath="$PROJECT_DIR$/target/classes/com/bfd/ftp/ApplicationRun.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/bfd/ftp/common/FtpUtil.class" afterPath="$PROJECT_DIR$/target/classes/com/bfd/ftp/common/FtpUtil.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/bfd/ftp/common/GetAllFilePath.class" afterPath="$PROJECT_DIR$/target/classes/com/bfd/ftp/common/GetAllFilePath.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/bfd/ftp/common/ReaderAndWriter.class" afterPath="$PROJECT_DIR$/target/classes/com/bfd/ftp/common/ReaderAndWriter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/ftpfileProcess-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/ftpfileProcess-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/original-ftpfileProcess-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/original-ftpfileProcess-1.0-SNAPSHOT.jar" />
       <change type="MODIFICATION" beforePath="E:/new2_project/Yimuyun-zhuisu-houtai/src/main/java/com/xinda/base/AjaxVo.java" afterPath="E:/new2_project/Yimuyun-zhuisu-houtai/src/main/java/com/xinda/base/AjaxVo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.txt" afterPath="$PROJECT_DIR$/README.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/bfd/ftp/ApplicationRun.java" afterPath="$PROJECT_DIR$/src/main/java/com/bfd/ftp/ApplicationRun.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/bfd/ftp/common/FtpUtil.java" afterPath="$PROJECT_DIR$/src/main/java/com/bfd/ftp/common/FtpUtil.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/bfd/ftp/common/GetAllFilePath.java" afterPath="$PROJECT_DIR$/src/main/java/com/bfd/ftp/common/GetAllFilePath.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/bfd/ftp/common/ReaderAndWriter.java" afterPath="$PROJECT_DIR$/src/main/java/com/bfd/ftp/common/ReaderAndWriter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/log4j.properties" afterPath="$PROJECT_DIR$/target/classes/log4j.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -37,7 +23,7 @@
       <file leaf-file-name="ApplicationRun.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/bfd/ftp/ApplicationRun.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
+            <state relative-caret-position="553">
               <caret line="47" column="50" lean-forward="true" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -46,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="42" lean-forward="false" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+            <state relative-caret-position="190">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -59,8 +45,8 @@
       <file leaf-file-name="ReaderProperties.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/bfd/ftp/utils/ReaderProperties.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-49">
-              <caret line="16" column="60" lean-forward="false" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+            <state relative-caret-position="236">
+              <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -76,11 +62,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReaderAndWriter.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ReaderAndWriter.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/bfd/ftp/common/ReaderAndWriter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="50" column="7" lean-forward="false" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
+            <state relative-caret-position="228">
+              <caret line="49" column="48" lean-forward="false" selection-start-line="49" selection-start-column="48" selection-end-line="49" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -164,7 +150,6 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/bfd/ftp/common/ReaderFile.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bfd/ftp/common/ReaderAndWriterFile.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/bfd/ftp/utils/ReaderProperties.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bfd/ftp/model/FtpDomain.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bfd/ftp/common/GetFilePath.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bfd/ftp/InputMethod.java" />
@@ -175,10 +160,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/bfd/ftp/utils/Constants.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bfd/ftp/common/FtpUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bfd/ftp/common/GetAllFilePath.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/bfd/ftp/common/ReaderAndWriter.java" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/bfd/ftp/ApplicationRun.java" />
         <option value="$PROJECT_DIR$/README.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bfd/ftp/utils/ReaderProperties.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bfd/ftp/common/ReaderAndWriter.java" />
       </list>
     </option>
   </component>
@@ -202,9 +188,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="width" value="1364" />
-    <option name="height" value="727" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -985,15 +972,23 @@
       <workItem from="1504576863357" duration="10808000" />
       <workItem from="1504588879741" duration="1929000" />
       <workItem from="1504592787575" duration="26198000" />
-      <workItem from="1504757751028" duration="30936000" />
+      <workItem from="1504757751028" duration="31935000" />
     </task>
+    <task id="LOCAL-00001" summary="修改部分内容">
+      <created>1504859062066</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1504859062066</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69871000" />
+    <option name="totallyTimeSpent" value="70870000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="0" width="1364" height="727" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1014,11 +1009,11 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3207856" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22521009" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24693252" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24357034" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1070,6 +1065,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改部分内容" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改部分内容" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1379,14 +1378,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bfd/ftp/utils/ReaderProperties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-49">
-          <caret line="16" column="60" lean-forward="false" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bfd/ftp/common/FtpUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="355">
@@ -1405,16 +1396,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bfd/ftp/common/ReaderAndWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="50" column="7" lean-forward="false" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -1423,9 +1404,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bfd/ftp/ApplicationRun.java">
+    <entry file="file://$PROJECT_DIR$/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bfd/ftp/utils/ReaderProperties.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="236">
+          <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bfd/ftp/ApplicationRun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
           <caret line="47" column="50" lean-forward="true" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1433,11 +1430,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.txt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bfd/ftp/common/ReaderAndWriter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="42" lean-forward="false" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-          <folding />
+        <state relative-caret-position="228">
+          <caret line="49" column="48" lean-forward="false" selection-start-line="49" selection-start-column="48" selection-end-line="49" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -47,7 +47,7 @@ public class ReaderAndWriter {
                     }else if((sumLineNumber==3||sumLineNumber<3)&&CheckDate.isInputDay(filename,date)&&delFlag){
                         File file = new File(filename);
                         file.delete();
-                        LOGGER.info("删除只有表头和系统内容的文件:"+file.getName());
+                        LOGGER.warn("删除只有表头和系统信息的文件:"+file.getName());
                     }
                 } catch (Exception e) {
                     e.printStackTrace();
