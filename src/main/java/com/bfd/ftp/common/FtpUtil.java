@@ -24,7 +24,7 @@ import java.util.*;
  */
 public class FtpUtil {
     private static final Logger LOGGER = Logger.getLogger(FtpUtil.class);
-
+    private static String str = "";
     private FtpUtil() {
     }
 
@@ -92,7 +92,12 @@ public class FtpUtil {
                     String fi = path.substring(path.lastIndexOf("/")+1, path.length());
                     //设置ftp工作目录
                     ftpClient.changeWorkingDirectory(dic);
-                    LOGGER.info("当前切换到的ftp目录是:" + dic);
+                    //减少日志输出
+                    if(!str.equals(dic)){
+                        LOGGER.info("当前切换到的ftp目录是:" + dic);
+                    }
+                    str=dic;
+
                     FTPFile[] ftpFiles = ftpClient.listFiles();
                     for (FTPFile ff : ftpFiles) {
                         if (ff.isFile() && ff.getName().endsWith(".csv") &&

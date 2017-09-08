@@ -22,9 +22,10 @@ public class ReaderAndWriter {
         if(filenames!=null&&filenames.size()>0){
             LOGGER.info("csv文件List不为空...准备进行处理");
             Iterator<String> iterator = filenames.iterator();
+            String filename = "";
             while(iterator.hasNext()){
                 StringBuffer sb = new StringBuffer();
-                String filename = iterator.next();
+                filename = iterator.next();
                 try {
                     int sumLineNumber = getLineNumber(filename);
                     if(sumLineNumber>3&&CheckDate.isInputDay(filename,date)){
@@ -80,7 +81,7 @@ public class ReaderAndWriter {
             }
             cnt = reader.getLineNumber();
         } catch (Exception ex) {
-            LOGGER.error("获取文件的总行数时出错,filename="+filename+",message:"+ex.toString());
+            LOGGER.error("获取文件的总行数时出错,可能是文件不存在,filename="+filename+",message:"+ex.toString());
             cnt = -1;
             ex.printStackTrace();
         } finally {

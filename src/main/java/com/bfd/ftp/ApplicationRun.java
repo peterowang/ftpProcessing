@@ -25,13 +25,13 @@ public class ApplicationRun {
         String localpath = rp.loadProperties(Constants.FTPTOFILEPATHKEY);
         String[] split = filepaths.split(",");
         List<String> list = Lists.newArrayList(Arrays.asList(split));
-        if(args.length==0){
-            log.info("下载指定的ftp文件到本地,处理昨天上传的文件...");
+        if (args.length==0){
+                log.info("下载指定的ftp文件到本地,处理昨天上传的文件...");
             FtpUtil.downloadFtpFileAndreLoad(list,localpath,"");
         } else if (args.length == 1 && args[0].equals("local")){
             log.info("处理本地目录下指定文件中,昨天上传的文件...");
             ReaderAndWriter.reload(list,"",false);
-        } else if(args.length == 1 && args[0].equals("allfile")){
+        } else if (args.length == 1 && args[0].equals("allfile")){
             log.info("获取ftp指定路径下所有昨天的csv,进行处理");
             List<String> allfiles = Lists.newArrayList();
             GetAllFilePath.getFileName(allfiles, ftpPath, "");

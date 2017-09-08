@@ -27,7 +27,7 @@ public class GetAllFilePath {
         try {
             File file = new File(filepath);
             File[] tempList = file.listFiles();
-            LOGGER.info("该目录下文件个数："+tempList.length);
+            LOGGER.info("该["+filepath+"]目录下文件个数："+tempList.length);
             for (int i = 0; i < tempList.length; i++) {
                 if (tempList[i].isFile()&&tempList[i].getName().endsWith(".csv")&&
                         CheckDate.isInputDay(tempList[i].getName(),dateStr)) {
@@ -35,7 +35,7 @@ public class GetAllFilePath {
                     LOGGER.info("成功添加csv文件:" + tempList[i].getName());
                 }else if(tempList[i].isDirectory()){
                     String p = filepath+tempList[i].getName();
-                    LOGGER.info("获取目录,等待继续扫描csv文件:" + p);
+                    LOGGER.info("获取子目录,等待继续扫描csv文件:" + p);
                     getFileName(filenames,p, dateStr);
                 }
             }
